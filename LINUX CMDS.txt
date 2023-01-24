@@ -1,0 +1,70 @@
+
+
+LINUX COMMANDS:
+
+
+1.$-for the other user.
+
+2.# admin in the window for root user.
+
+3.pwd-present working directory.
+
+4.mkdir-make directory.
+
+5.ls-list directory contents.
+
+6.cd-change directory.
+
+7.cat-creating file.
+
+8.touch-empty file without any content.
+
+9.vi-edit the file.
+
+10.chmod-change mode file permissions.
+
+11.chown-change who own a file.
+
+12.d-in front (directory folder).
+
+13.(-)-in front (it is a file).
+
+14.clear-clear a command line screen.
+
+15.cp-copy files and directories.
+
+16.mv-rename or move files or directories.
+
+17.rmdir-delete empty directories.
+
+18.rm-remove delete files or directories.
+
+19.ps-display snapshot of the currently running process.
+
+20.passwd-change the password.
+
+21.grep-option pattern (file name).
+
+22.find-pathname (expression).
+
+23.man-display the help information for the specified command.
+
+24.tar-to exract archive file.
+
+25.zip-compressed file.
+
+26.unzip-unzip file in linux.
+
+27.tail-return of specified number of lines from the bottom.
+
+28.ifconfig-interface configuration.
+
+29.traceout-trace all the network.
+
+30.wget-direct dowload files from the internet.
+
+31.curl-transfer the data.
+
+32.top-display the resources being used on your system .press q to exit.
+
+33.export -export environment variables in linux.
